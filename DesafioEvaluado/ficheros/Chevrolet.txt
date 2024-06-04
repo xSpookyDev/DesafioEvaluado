@@ -1,0 +1,5 @@
+Patente del vehículo: 3d12c
+Nombre del cliente: Valentina
+Edad del cliente: 23
+Fecha de la venta: 01/23/1111
+Nombre de la venta: Chevrolet
